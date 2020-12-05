@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Padauk&family=Sacramento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed&display=swap');
+
+body {
+    margin: 0;
+    text-align: center;
+} 
+
+h1{
+    margin-top: 4.2rem;
+    font-size: 2.5rem;
+    color:  #66BFBF;
+    font-size: 3rem;
+}
+
+.intro > p {
+    font-size: 15px;
+    font-family: 'Padauk', sans-serif;
+    color: #66BFBF;
+    font-size: 2rem;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+h2, h3, a {
+    color: #11999E;
+}
+
+h3 {
+    font-size: 1.4rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+span {
+    text-decoration: underline;
+    font-size: inherit;
+    font-family: inherit;
+}
+
+p {
+    line-height: 2;
+    font-size: 1.2rem;
+}
+
+article {
+    margin: 7rem;
+}
+
+.avatar {
+    width: 7rem;
+}
+
+hr {
+    border-style: none;
+    border-top: dotted 6px;
+    width: 40%;
+    border-color: lightGray;
+}
+
+.intro {
+    background-color: aliceblue;
+}
+   
+.mid-cloud{
+    position: absolute;
+    top: 15rem;
+    left: 15rem;
+}
+
+.top-cloud {
+    position: relative;
+    left: 10.6rem;
+    top: 1.5rem;
+}
+
+.bottom-right-cloud {
+    position: absolute;
+    top: 25rem;
+    right: 20rem;
+}
+
+.mountain-img {
+    width: 30rem;
+}
+
+.picture-me {
+    height: 15rem;
+    margin: 2rem auto;
+}
+
+.greeting > h1 {
+    margin-top: 1rem;
+}
+
+.who-i-am {
+    font-weight: 350;
+    margin-bottom: 3rem;
+}
+
+.skills {
+    width: 65%;
+    margin: 5rem auto;
+    text-align: left;
+}
+
+.heading {
+    text-align: center;
+}
+
+.interest {
+    width: 70%;
+    text-align: left;
+    margin: 2rem auto;
+}
+
+.interest-gaming-photo {
+    width: 35%;
+    float: right;
+    margin-left: 4rem;
+    margin-bottom: 3rem;
+    position: relative;
+    top: 3rem;
+}
+
+.sports-img {
+    float: right;
+    width: 30%;
+    margin-left: 4rem;
+}
+
+.book-img {
+    float: right;
+    width: 30%;
+    margin-left: 4rem;
+}
+
+.computer-img {
+    float: left;
+    margin-right: 4rem;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+
+.sport-car-section {
+    text-align: left;
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 4rem;
+    margin-top: 4rem;
+}
+
+#car-heading {
+    margin-bottom: 0;
+    display: inline;
+}
+
+.car-img {
+    margin-right: 4rem;
+    width: 30%;
+    float: left;
+}
+
+.contact-me {
+    margin: 0 auto;
+    width: 60%;
+    text-align: center;
+}
+
+.get-touch {
+    font-size: 2rem;
+    color:  #66BFBF;
+}
+
+.get-touch-p {
+    margin: 2rem;
+    font-size: 1.2rem;
+}
+
+.planet-img {
+    width: 20%;
+    margin-left: 2rem;
+}
+
+footer {
+    background-color: #66BFBF;
+    margin: 0;
+    height: 10rem;
+}
+
+.btn {
+    background-color: #11999E;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    border: none;
+    margin: 2rem;
+    padding: 0.5rem;
+    width: 10rem;
+    color: white;
+    margin: 2rem auto;
+    cursor: pointer;
+}
+
+.footer-social-profiles > a > img {
+    width: 2.5rem;
+    margin: 5px 10px;
+    border-radius: 50%;
+    margin-top: 2rem;
+}
+
+.copyright {
+    font-family: 'Sansita Swashed', cursive;
+}
+
+#twitter {
+    height: 2.5rem;
+}
+
+#linkedin {
+    border-radius: 0;
+}
